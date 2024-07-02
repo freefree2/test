@@ -1,70 +1,68 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟(毫秒),下载速度(MB/s)
-199.181.197.216,443,true,LAX,North America,Los Angeles,224,39.92
-168.100.6.132,2087,true,SEA,North America,Seattle,206,33.86
-129.146.46.164,443,true,LAX,North America,Los Angeles,203,33.41
-154.9.240.180,13280,true,LAX,North America,Los Angeles,147,32.92
-199.181.197.233,443,true,SEA,North America,Seattle,194,30.37
-146.56.171.182,11659,true,NRT,Asia Pacific,Tokyo,65,30.12
-146.56.171.182,11659,true,NRT,Asia Pacific,Tokyo,77,30.09
-104.254.140.93,443,true,SEA,North America,Seattle,193,27.42
-140.238.31.153,15914,true,ICN,Asia Pacific,Seoul,59,27.33
-211.72.156.10,23555,true,KHH,Asia Pacific,Kaohsiung City,73,25.04
-138.2.85.8,22604,true,SIN,Asia Pacific,Singapore,87,22.09
-45.159.219.231,443,true,LAX,North America,Los Angeles,223,21.87
-89.116.161.69,2087,true,LAX,North America,Los Angeles,1232,21.50
-132.145.91.171,8443,true,ICN,Asia Pacific,Seoul,50,21.19
-193.122.101.195,443,true,HKG,Asia Pacific,Hong Kong,54,20.77
-176.119.149.243,3000,true,NRT,Asia Pacific,Tokyo,83,20.70
-176.119.149.241,3000,true,NRT,Asia Pacific,Tokyo,85,20.28
-211.72.156.11,23555,true,KHH,Asia Pacific,Kaohsiung City,80,20.20
-146.56.42.31,48652,true,HKG,Asia Pacific,Hong Kong,66,19.07
-45.159.218.45,2053,true,LAX,North America,Los Angeles,219,18.54
-45.159.216.99,443,true,LAX,North America,Los Angeles,222,17.60
-185.148.105.73,443,true,SEA,North America,Seattle,165,17.26
-199.181.197.93,443,true,LAX,North America,Los Angeles,226,16.34
-45.159.219.11,443,true,LAX,North America,Los Angeles,225,16.04
-43.153.103.203,443,true,SJC,North America,San Jose,206,15.19
-155.46.213.100,443,true,SEA,North America,Seattle,170,14.96
-65.75.194.18,13888,true,SJC,North America,San Jose,195,14.75
-27.50.48.250,2096,true,SEA,North America,Seattle,167,14.70
-27.50.48.108,443,true,SEA,North America,Seattle,161,14.65
-216.116.134.94,443,true,SEA,North America,Seattle,199,14.39
-154.85.99.37,443,true,SEA,North America,Seattle,135,14.29
-146.56.141.168,47590,true,HKG,Asia Pacific,Hong Kong,72,13.50
-150.230.47.17,443,true,SJC,North America,San Jose,213,13.19
-43.153.16.136,4333,true,SJC,North America,San Jose,185,12.93
-66.81.247.161,443,true,SEA,North America,Seattle,191,12.13
-43.153.80.208,443,true,SJC,North America,San Jose,211,10.65
-146.56.135.192,16617,true,HKG,Asia Pacific,Hong Kong,206,10.45
-146.56.141.168,47590,true,HKG,Asia Pacific,Hong Kong,69,9.89
-192.9.246.112,8443,true,SJC,North America,San Jose,212,9.24
-27.119.233.23,11196,true,KIX,Asia Pacific,Osaka,116,8.75
-150.230.44.13,443,true,SJC,North America,San Jose,177,8.49
-192.9.246.112,8443,true,SJC,North America,San Jose,181,8.10
-142.171.174.14,12468,true,LAX,North America,Los Angeles,212,6.96
-150.136.241.40,8443,true,IAD,North America,Ashburn,265,6.67
-138.2.36.157,8443,true,KIX,Asia Pacific,Osaka,242,6.53
-129.150.41.174,16462,true,SIN,Asia Pacific,Singapore,254,6.28
-152.69.199.70,8443,true,KIX,Asia Pacific,Osaka,243,5.97
-141.11.202.118,8443,true,SEA,North America,Seattle,173,5.77
-210.222.133.55,10209,true,ICN,Asia Pacific,Seoul,134,5.42
-129.146.248.140,443,true,LAX,North America,Los Angeles,229,5.17
-148.135.59.166,22103,true,LAX,North America,Los Angeles,198,5.09
-152.70.123.225,8443,true,SJC,North America,San Jose,217,4.72
-193.122.125.174,2053,true,ICN,Asia Pacific,Seoul,59,4.39
-210.179.97.142,17486,true,ICN,Asia Pacific,Seoul,97,3.98
-182.230.121.50,50030,true,ICN,Asia Pacific,Seoul,109,3.74
-8.222.138.166,21737,true,SIN,Asia Pacific,Singapore,95,3.59
-155.248.202.141,443,true,SJC,North America,San Jose,210,3.33
-129.153.213.8,443,true,LAX,North America,Los Angeles,235,3.29
-168.138.178.6,19990,true,SIN,Asia Pacific,Singapore,249,3.28
-103.137.63.37,46832,true,HKG,Asia Pacific,Hong Kong,68,2.93
-65.75.194.18,16888,true,SJC,North America,San Jose,206,2.56
-61.220.41.143,36633,true,TPE,Asia Pacific,Taipei,181,1.64
-210.87.195.139,26439,true,ICN,Asia Pacific,Seoul,60,1.28
-185.148.104.199,443,true,SEA,North America,Seattle,195,0.42
-160.79.105.229,8443,true,LAX,North America,Los Angeles,224,0.42
-205.233.181.105,443,true,SEA,North America,Seattle,206,0.30
-185.148.106.116,443,true,SEA,North America,Seattle,168,0.24
-155.46.213.42,443,true,SEA,North America,Seattle,191,0.19
-108.165.216.235,443,true,SEA,North America,Seattle,205,0.15
+193.122.101.195,443,true,HKG,Asia Pacific,Hong Kong,51,37.48
+146.56.171.182,11659,true,NRT,Asia Pacific,Tokyo,69,32.48
+45.159.218.51,443,true,SEA,North America,Seattle,197,32.12
+43.153.103.203,443,true,SJC,North America,San Jose,215,30.58
+129.146.46.164,443,true,LAX,North America,Los Angeles,206,29.89
+140.238.31.153,15914,true,ICN,Asia Pacific,Seoul,61,29.68
+43.207.156.148,2086,true,TPE,Asia Pacific,Taipei,60,29.15
+64.110.88.46,443,true,ICN,Asia Pacific,Seoul,193,24.67
+211.72.156.11,23555,true,KHH,Asia Pacific,Kaohsiung City,73,23.30
+154.85.99.37,443,true,SEA,North America,Seattle,197,23.02
+45.159.218.45,2053,true,LAX,North America,Los Angeles,1225,22.66
+205.233.181.105,443,true,SEA,North America,Seattle,200,22.05
+132.145.91.171,8443,true,ICN,Asia Pacific,Seoul,51,21.99
+168.100.6.62,443,true,LAX,North America,Los Angeles,225,21.90
+43.153.80.208,443,true,SJC,North America,San Jose,210,21.67
+155.46.213.42,443,true,SEA,North America,Seattle,197,21.58
+146.56.171.182,11659,true,NRT,Asia Pacific,Tokyo,102,21.58
+89.116.161.69,2087,true,SEA,North America,Seattle,178,20.31
+141.11.202.118,8443,true,LAX,North America,Los Angeles,222,20.25
+138.2.85.8,22604,true,SIN,Asia Pacific,Singapore,247,19.94
+211.72.156.10,23555,true,KHH,Asia Pacific,Kaohsiung City,76,19.00
+216.116.134.94,443,true,SEA,North America,Seattle,199,16.42
+185.148.105.73,443,true,SEA,North America,Seattle,170,15.63
+192.9.246.112,8443,true,SJC,North America,San Jose,184,15.44
+43.153.16.136,4333,true,SJC,North America,San Jose,210,15.05
+65.75.194.18,13888,true,SJC,North America,San Jose,206,14.70
+146.56.141.168,47590,true,HKG,Asia Pacific,Hong Kong,68,14.59
+108.165.216.235,443,true,SEA,North America,Seattle,162,14.41
+146.56.141.168,47590,true,HKG,Asia Pacific,Hong Kong,63,14.35
+38.47.115.89,34237,true,LAX,North America,Los Angeles,146,14.34
+27.50.48.250,2096,true,SEA,North America,Seattle,195,13.59
+155.46.213.100,443,true,SEA,North America,Seattle,164,13.22
+8.222.134.170,2053,true,SIN,Asia Pacific,Singapore,296,12.95
+27.50.48.108,443,true,SEA,North America,Seattle,164,12.74
+192.9.246.112,8443,true,SJC,North America,San Jose,209,11.70
+199.181.197.93,443,true,SEA,North America,Seattle,147,11.19
+152.69.199.70,8443,true,KIX,Asia Pacific,Osaka,141,10.96
+199.181.197.233,443,true,SEA,North America,Seattle,194,10.18
+104.254.140.93,443,true,SEA,North America,Seattle,139,8.81
+210.179.97.142,17486,true,ICN,Asia Pacific,Seoul,95,8.40
+65.75.194.18,16888,true,SJC,North America,San Jose,176,8.40
+103.137.63.37,46832,true,HKG,Asia Pacific,Hong Kong,70,7.54
+142.171.174.14,12468,true,LAX,North America,Los Angeles,205,7.45
+27.119.233.23,11196,true,NRT,Asia Pacific,Tokyo,123,7.37
+146.56.139.40,45139,true,ICN,Asia Pacific,Seoul,73,6.72
+129.150.41.174,16462,true,SIN,Asia Pacific,Singapore,249,6.32
+148.135.59.166,22103,true,LAX,North America,Los Angeles,208,6.26
+152.70.123.225,8443,true,SJC,North America,San Jose,213,5.98
+129.146.248.140,443,true,LAX,North America,Los Angeles,217,5.67
+138.2.36.157,8443,true,KIX,Asia Pacific,Osaka,137,5.67
+168.138.178.6,19990,true,SIN,Asia Pacific,Singapore,93,5.49
+150.136.241.40,8443,true,IAD,North America,Ashburn,275,4.79
+155.248.202.141,443,true,SJC,North America,San Jose,182,4.02
+182.230.121.50,50030,true,ICN,Asia Pacific,Seoul,136,3.95
+66.81.247.161,443,true,SEA,North America,Seattle,161,3.69
+8.222.138.166,21737,true,SIN,Asia Pacific,Singapore,295,2.34
+61.220.41.143,36633,true,TPE,Asia Pacific,Taipei,629,2.30
+129.153.213.8,443,true,LAX,North America,Los Angeles,221,2.27
+193.122.125.174,2053,true,ICN,Asia Pacific,Seoul,56,1.49
+168.100.6.132,2087,true,SEA,North America,Seattle,208,0.18
+185.148.106.235,443,true,SEA,North America,Seattle,170,0.17
+43.134.189.122,34237,true,SIN,Asia Pacific,Singapore,318,0.16
+45.159.219.231,443,true,LAX,North America,Los Angeles,225,0.14
+185.148.106.116,443,true,SEA,North America,Seattle,194,0.14
+45.159.216.99,443,true,SEA,North America,Seattle,165,0.14
+45.159.219.11,443,true,LAX,North America,Los Angeles,234,0.12
+160.79.105.229,8443,true,LAX,North America,Los Angeles,221,0.12
